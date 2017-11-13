@@ -1,3 +1,16 @@
+# Bioinfoperson ExData_Plotting1
+## Use the following 4 commands
+source("plot1.R")
+source("plot2.R")
+source("plot3.R")
+source("plot4.R")
+### Plot1 shows usage frequency for Global active power in kilowatts.
+### Plot2 shows Global active power usage in kilowatts over 2 days.
+### Plot3 shows usage of energy in kitchens (black), laundry (red), and electric temperature control (blue).
+### Plot4 shows Plot2 and Plot3, as well as voltage over 2 days and Global reactive power over 2 days.
+
+# Previous README.md
+
 ## Introduction
 
 This assignment uses data from
